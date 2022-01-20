@@ -1,0 +1,9 @@
+{
+  "title": "Example Mod",
+  "description": "This repository serves as an example for providing meta-data to SpinShare.",
+  "category": "Other",
+  "supportedGameVersion": "0.15.0",
+  "dependencies": [
+    "SRXDModdingGroup/SpinModdingUtilities@v1.0.1"
+  ]
+}
